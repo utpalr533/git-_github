@@ -1,2 +1,5 @@
 fix file 1
 fixed another bug
+one more bug fixed
+ Fouth bug fixed.
+ fifth bug
