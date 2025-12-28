@@ -3,3 +3,6 @@ fixed another bug
 one more bug fixed
  Fouth bug fixed.
  fifth bug
+
+
+ another fix messgae pink mode
